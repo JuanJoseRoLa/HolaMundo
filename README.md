@@ -13,5 +13,7 @@ el ejecutable del cliente Git.
 5. Enlacemos en repositorio con una consola remota. Para eso vaya a GitHub y copie en enlace del repositorio, despues nos vamos a la carpeta del proyecto y arbimos
 una terminas y ponemos las siguientes lineas de comandos:
 git remove add origin https://github.com/[nombreusuario]/[nombrerepositorio].git
+
 git add .
+
 git commit -m 'version inicial del proyecto'
